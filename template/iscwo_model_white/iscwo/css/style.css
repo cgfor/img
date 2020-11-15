@@ -18,7 +18,7 @@ li{list-style:none}a{text-decoration:none}body{background: #f5f5f5;color: #33333
 @-webkit-keyframes flash {from { width:0px; margin-left:0px; } to { width:226px; margin-left:-113px; }}
 @-moz-keyframes flash {from { width:0px; margin-left:0px; } to { width:226px; margin-left:-113px; }}
 @keyframes flash {from { width:0px; margin-left:0px; } to { width:226px; margin-left:-113px; }}	
-.top_positioning { padding-bottom: 250px; background: #383838; }
+.showdown { padding-bottom: 250px; background: #383838; }
 .bmw, #online { border:none; box-shadow: 0 1px 3px rgba(79,125,183,.1); border-radius: 3px; overflow: hidden; }
 .index_four { height: 730px; padding: 10px 0px; margin-bottom: 10px; }
 .index_fourbox { width:261px; height: 715px; padding:4px 15px 11px; float: left; margin-left: 12px; background: #fff; box-shadow: 0 1px 3px rgba(79,125,183,.1); border-radius: 3px; overflow: hidden; }
