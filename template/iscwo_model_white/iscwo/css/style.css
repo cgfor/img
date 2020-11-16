@@ -48,7 +48,7 @@ li{list-style:none}a{text-decoration:none}body{background: #f5f5f5;color: #33333
 .index_top { height: 400px; margin-top: -230px; }
 .index_topleft { float:left; width: 820px; background:#f3f3f3; border-radius: 3px; box-shadow: 0 1px 3px rgba(79,125,183,.1); overflow: hidden; }
 .index_topright { float:right; width: 330px; padding: 4px 15px 11px; background: #fff; box-shadow: 0 1px 3px rgba(79,125,183,.1); border-radius: 3px; overflow: hidden; }
-.index_topright .boxtitle { background: url('./template/iscwo_model_white/iscwo/common/index_icon.png') no-repeat 0px -200px; }
+.index_topright .boxtitle { background: url('https://cdn.jsdelivr.net/gh/cgfor/img/template/iscwo_model_white/iscwo/common/index_icon.png') no-repeat 0px -200px; }
 .index_topright ul {}
 .index_topright li { height: 32px; line-height: 32px; font-size: 14px; color: #aaa; border-bottom: 1px solid #f0f0f0; text-overflow:ellipsis; white-space:nowrap; overflow: hidden; }
 .index_topright li:last-child { border: none; }
