@@ -95,7 +95,7 @@ li{list-style:none}a{text-decoration:none}body{background: #f5f5f5;color: #33333
 .datap { padding: 30px 0px 20px; overflow: hidden; }			
 .datap .dtitle { height: 44px; border-bottom: 1px solid #f0f0f0; line-height: 44px; font-size: 18px; margin-bottom: 7px; padding: 0px 0px 0px 2px; font-weight: 500; }
 .datap .datap_c { width:48%;}
-.datap .datap_c li { height: 30px; line-height: 30px; padding: 0px 10px 0px 14px; font-size: 16px; background: url('./template/iscwo_model_white/iscwo/common/arrow_right.gif') no-repeat 2px 50%; text-overflow:ellipsis; white-space:nowrap; overflow: hidden; }
+.datap .datap_c li { height: 30px; line-height: 30px; padding: 0px 10px 0px 14px; font-size: 16px; background: url('https://cdn.jsdelivr.net/gh/cgfor/img/template/iscwo_model_white/iscwo/common/arrow_right.gif') no-repeat 2px 50%; text-overflow:ellipsis; white-space:nowrap; overflow: hidden; }
 .datap .datap_c li a:hover { text-decoration: underline !important; color: #8ba7de; }
 .righttab { height: 48px; border-bottom: 1px solid #f0f0f0; line-height: 48px; font-size: 18px; margin-bottom: 7px; position: relative; }
 .righttab li { float: left; cursor:pointer; font-weight: 500; margin: 0px 45px 0px 3px; }
